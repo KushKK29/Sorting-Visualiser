@@ -47,6 +47,8 @@ Make sure you have **Node.js** and **npm** installed:
 ```bash
 node -v
 npm -v
+```
+---
 
 ### 🔧 Installation
 
@@ -55,7 +57,7 @@ npm -v
    git clone  https://github.com/KushKK29/Sorting-Visualizer.git
    cd MHope
 
-2. Install Frontend Dependencies:
+2. **Install Frontend Dependencies:**
    ```
    npm install
    ```
